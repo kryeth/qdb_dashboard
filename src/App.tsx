@@ -5,7 +5,7 @@ import { Sidebar } from './components/Sidebar/Sidebar';
 import { TopBar } from './components/TopBar/TopBar';
 
 const StyledLayout = styled(Layout)`
-    height: 100vh;
+    min-height: 100vh;
     flex-direction: row;
 `;
 
